@@ -52,7 +52,7 @@ button:hover {
   background-color: rgb(247, 247, 247);
   font: 100 1.1rem sans-serif;
   padding: 30px;
-
+  margin: 10px;
   color: rgba(0, 0, 0, 0.868);
   display: flex;
   align-items: center;
